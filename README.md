@@ -1,5 +1,15 @@
 # Script Summaries
 This document summarizes the purpose, inputs, and outputs of each script in the repository.
+## Acknowledgment of External Contributions
+
+The following components were sourced from **Jordy Thielen** (jordy.thielen@donders.ru.nl) and were not developed by the author of this thesis. They were used with permission as part of the experimental setup:
+
+- `cvep_cross_validation.py`
+- `vep_stats.py`
+- `cvep_read.py`
+- `mnelab_read_raw.py`
+- `rs_stats.py`
+
 
 ## mnelab_read_raw.py
 **Description:**  
